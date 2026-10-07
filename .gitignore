@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.runtime/
+bank_marketing_outputs/
+*.docx
+*.pdf
+validation_report.json
